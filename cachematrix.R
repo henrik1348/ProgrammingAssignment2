@@ -1,3 +1,4 @@
+
 ## The makeCacheMatrix function ultimately returns a list of the inverse. 
 
 makeCacheMatrix <- function(x = matrix()) { #Default of argument x is an empty matrix.
